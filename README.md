@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Amanda-AAndrade
+- Quero migrar de área da Tecnologia de Software 
+- Atualmente estou estudando e estou desempregada
+- Estou procurando atuar como Full Stack ou algo correlacionado
+- Como chegar até mim, atravez de e-mail ou ligação ou WhatsApp. 
+- Whastapp : (11) 9 66096986; e-mail: man.andradeh@gmai.com ou amanda.andradetec@gmail.com
+- Segue meu currículo [Currículo Amanda.pdf](https://github.com/Amanda-AAndrade/Amanda-AAndrade/files/8995696/Curriculo.Amanda.pdf)
