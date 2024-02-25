@@ -9,4 +9,3 @@ Outro aspecto importante que gostaria de mencionar é minha habilidade em lidar 
 
 Como chegar até mim, através de e-mail, ligação ou WhatsApp.
 Whatsapp: (11) 9 66096986; e-mail: amanda.andradetec@gmail.com Segue em anexo meu currículo e o meu portfólio 
-
