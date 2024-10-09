@@ -8,9 +8,11 @@ Além disso, sou uma pessoa organizada, responsável e dinâmica, característic
   
 Outro aspecto importante que gostaria de mencionar é minha habilidade em lidar com pessoas. Sou uma pessoa empática, capaz de compreender as necessidades e expectativas dos outros, o que considero valioso em um ambiente de trabalho colaborativo.
 
-Como chegar até mim, através de e-mail, ligação ou WhatsApp.
+Como chegar até mim? 
+Através do WhatsApp; e-mail ou Meet/Reunião por Vídeo.
 
-Whatsapp: (11) 9 6609-6986; e-mail: amanda.andradetec@gmail.com 
+Whatsapp: (11) 9 6609-6986; 
+e-mail: amanda.andradetec@gmail.com 
 
 Segue em anexo meu Curriculum e meu Linkedin
 
