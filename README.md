@@ -1,4 +1,5 @@
 - 👋 Olá, sou @Amanda-AAndrade!
+
 Estou migrando de área para a Tecnologia. Desde sempre tive um interesse fascinante pelo mundo da tecnologia e, recentemente, decidi fazer uma transição de carreira para seguir essa paixão.
 
 Durante todo o processo de transição, tenho investido em cursos e na minha Graduação para desenvolver minhas habilidades técnicas e adquirir o conhecimento necessário para desempenhar com excelência as atividades relacionadas à Tecnologia. Minha dedicação e busca constante por conhecimento têm sido fundamentais nessa trajetória. 
