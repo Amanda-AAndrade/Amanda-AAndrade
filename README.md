@@ -16,6 +16,8 @@ Segue em anexo meu Curriculum e meu Linkedin
 
 Currículo:[Currículo-Amanda.pdf](https://github.com/user-attachments/files/18773058/Curriculo-Amanda.pdf)
 
-Currículo em HTML: 
+Currículo: https://github.com/Amanda-AAndrade/MeuCurriculoHTML.git
+
+Portifólio: https://amanda-aandrade.github.io/PortfolioAmanda/  
 
 Linkedin: www.linkedin.com/in/amanda-andradetec
