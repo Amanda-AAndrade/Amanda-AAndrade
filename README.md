@@ -25,7 +25,7 @@ Sou apaixonada em desmontar e montar coisas e arrumá-las. Por exemplo: conserte
 Como chegar até mim? 
 Através do WhatsApp; e-mail ou Meet/Reunião por Vídeo.
 
-Whatsapp: (11) 9 6609-6986 
+Whatsapp: (11) 9 9948-6104 
 
 e-mail: amanda.andradetec@gmail.com 
 
