@@ -1,26 +1,19 @@
 👋 Olá, sou @Amanda-AAndrade!
-Estou em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Web | Desenvolvimento Mobile| Front-end| Back-end | TI | . Atualmente, curso Análise e Desenvolvimento de Sistemas e venho aprimorando minhas habilidades em HTML, CSS, JavaScript, VisualG, Algoritmos.
+Estou em transição de carreira para a área de tecnologia.
+Objetivo: 
+Em busca da primeira oportunidade com Desenvolvimento Back-End/ TI/ Suporte. 
+Tipos de vaga: Estágio (6 meses); Tempo integral; Autônomo / PJ; Temporário e Intermitente (freelance).
 
--- Experiência e Projetos --
- - Habilidades com sistemas;
- - Estou Desenvolvendo a plataforma Qzverso, um projeto inspirado no Wattpad e Netflix para publicação de histórias;
-- Criei meu currículo em HTML, aplicando conceitos de estruturação web;
-- Experiência com suporte técnico e atendimento ao cliente, facilitando a comunicação com usuários e resolução de problemas;
-- Auxiliar Farmacêutica 7 anos, manipulação de medicamentos, conferência de receitas médicas, Farmácia UTI Pediátrica, dispensação de materiais de intercorrências; montagem de kits para atendimentos médicos (medicamentos e materiais).
-
-  Objetivo Profissional
-Busco minha primeira oportunidade como Desenvolvedora Web (Front-end ou Back-end Júnior). Estou aberta a desafios e pronta para contribuir em projetos inovadores!
-
-  Tecnologias e Ferramentas
-- HTML, CSS, JavaScript, Dart, Algoritmo.
-- VSCode, GitHub, VisualG, Excel, Word e Adobe.
+RESUMO PROFISSIONAL:
+Profissional em transição de carreira para a área de Desenvolvimento Back-End, com trajetória em setores que exigem atenção a detalhes, resiliência e resolução de problemas.
+Atualmente cursando Análise e Desenvolvimento de Sistemas (conclusão prevista: 06/2026) pelo Centro Universitário União das Américas Descomplica, onde desenvolvo projetos práticos com foco em Node.js, JavaScript, HTML, CSS, APIs e Banco de Dados.
+Iniciei minha trajetória profissional aos 16 anos e construí uma carreira marcada por aprendizado contínuo e versatilidade, passando pelas áreas administrativa, farmacêutica e hospitalar, onde atuei com manipulação e conferência de medicamentos, dispensação de materiais e medicamentos em UTIs e suporte a equipes multidisciplinares.
+Iniciei na área de Suporte de TI, prestando atendimento ao cliente via chat, ligações e acesso remoto, realizando abertura de tickets, configuração de sistemas e sugestão de melhorias.
+Hoje, direcionei minha carreira para o Back-End, unindo o raciocínio lógico e a experiência técnica para compreender sistemas de forma analítica e propor soluções eficientes. Desenvolvedora em formação com projetos autorais, como o Qzverso, site que integra front-end e banco de dados para publicação de histórias interativas, hospedado no GitHub, meu currículo e portifólio em HTML, CSS e JS.
 
 GitHub: 
 github.com/Amanda-AAndrade
 https://github.com/Qzverso
-
-Curiosidade sobre mim? 
-Sou apaixonada em desmontar e montar coisas e arrumá-las. Por exemplo: consertei um Tablet MODELO TAB-E T560/T561, pois não ligava mais, pedi também ajuda ao ChatGPT com algumas dúvidas, como ajustes de configuração e entender o sistema operacional. Consertei também um Smartphone da XIAOME PocoFone, o Mini Game R35S na qual não lia mais os arquivos dos gamer ARKIOS e um notebook da CCE WIN, na qual não aceitava nenhum Windows até que parou de aceitar o próprio HD. consegui ajustar o HD dele e formatar usando o meu Notebook, usando alguns comandos como win + r e gerenciamento de disco.
 
 Como chegar até mim? 
 Através do WhatsApp; e-mail ou Meet/Reunião por Vídeo.
@@ -29,9 +22,9 @@ Whatsapp: (11) 9 9948-6104
 
 e-mail: amanda.andradetec@gmail.com 
 
-Segue em anexo meu Curriculum e meu Linkedin
+Segue em anexo meu Curriculum e meu Linkedin:
 
-Currículo em PDF: [Currículo-Amanda.pdf](https://github.com/user-attachments/files/18773058/Curriculo-Amanda.pdf)
+Currículo em PDF: [CV_Amanda_Andrade.pdf](https://github.com/user-attachments/files/23245485/CV_Amanda_Andrade.pdf)
 
 Currículo: [ https://github.com/Amanda-AAndrade/MeuCurriculoHTML.git](https://amanda-aandrade.github.io/MeuCurriculoHTML/)
 
