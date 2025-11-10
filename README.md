@@ -36,7 +36,7 @@ e-mail: amanda.andradetec@gmail.com
 
 Segue em anexo meu Curriculum e meu Linkedin:
 
-Currículo em PDF: [CV_Amanda_Andrade.pdf](https://github.com/user-attachments/files/23245485/CV_Amanda_Andrade.pdf)
+Currículo em PDF: [Amanda_Andrade.pdf](https://github.com/user-attachments/files/23460179/Amanda_Andrade.pdf)
 
 Currículo: [ https://github.com/Amanda-AAndrade/MeuCurriculoHTML.git](https://amanda-aandrade.github.io/MeuCurriculoHTML/)
 
