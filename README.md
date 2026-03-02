@@ -1,33 +1,47 @@
 👋 Olá, sou @Amanda-AAndrade!
-Em transição de carreira para ser Desenvolvedora Back-End em formação | Node.js • SQL • APIs
+Interesse: Estágio na área de Dados ou Sistemas, com foco em organização, tratamento e 
+inserção de informações em sistemas internos, buscando desenvolvimento técnico e experiência prática na área de Tecnologia da Informação.
+Disponibilidade: Integral ou Parcial | Remoto, Híbrido ou Presencial(SP).
 
-Objetivo: 
-Em busca da primeira oportunidade com Desenvolvimento Back-End/ TI/ Suporte. 
-Tipos de vaga: Estágio; Tempo integral; Autônomo / PJ; Temporário e Intermitente (freelance).
+Sou Amanda Andrade, estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para junho de 2026, e ingressante no curso de Engenharia de Software em janeiro de 2026. Encontro-me em transição estratégica para a área de Dados e Sistemas Internos, com foco no aprendizado e aplicação de SQL, bancos de dados relacionais e estruturação da informação.
+Minha trajetória profissional foi construída na área da Saúde, onde atuei por quase seis anos com conferência e validação de dados críticos, garantindo conformidade entre prescrições, dosagens e informações sensíveis. Essa experiência desenvolveu em mim forte atenção aos detalhes, pensamento analítico, responsabilidade na gestão de informações e atuação orientada à confiabilidade dos dados, além de vivência em liderança de equipe e padronização de processos.
+Nos últimos anos, direcionei minha carreira para a Tecnologia, aprofundando-me em fundamentos de banco de dados, lógica de programação e organização de informações. Atualmente estudo SQL e análise de dados, aplicando esses conhecimentos em projetos acadêmicos e pessoais, com foco em estruturação de dados, entendimento de regras de negócio e resolução de problemas.
+Busco oportunidade para atuar como Assistente ou Analista Júnior na área de Dados, contribuindo com atividades como validação e organização de informações, apoio na construção de consultas SQL, manutenção de bases de dados e melhoria contínua de processos. Acredito que minha experiência prévia com controle e qualidade de dados, aliada ao desenvolvimento técnico em andamento, pode agregar valor à equipe.
 
-RESUMO PROFISSIONAL:
- Profissional em transição para a área de Desenvolvimento Back-End, conhecimentos iniciais em lógica de programação,JavaScript, HTML e CSS, Node.js, APIs REST e bancos de dados relacionais, aplicados em projetos de estudo.
- Experiência consolidada em suporte técnico, resolução de problemas, entendimento rápido de sistemas e atendimento a demandas complexas.
- Atualmente cursando Análise e Desenvolvimento de Sistemas (conclusão: 06/2026) e iniciando Engenharia de Software em 01/2026 com conclusão prevista para 06/2028.
- 
-Iniciei minha trajetória profissional aos 16 anos e construí uma carreira marcada por aprendizado contínuo e versatilidade, passando pelas áreas administrativa, farmacêutica e hospitalar, onde atuei com manipulação e conferência de medicamentos, dispensação de materiais e medicamentos em UTIs e suporte a equipes multidisciplinares.
-Iniciei na área de Suporte de TI, prestando atendimento ao cliente via chat, ligações e acesso remoto, realizando abertura de tickets, configuração de sistemas e sugestão de melhorias.
+PROJETOS:
 
-Hoje, direcionei minha carreira para o Back-End, unindo o raciocínio lógico e a experiência técnica para compreender sistemas de forma analítica e propor soluções eficientes. Desenvolvedora em formação com projetos autorais, como o Qzverso, site que integra front-end e banco de dados para publicação de histórias interativas, hospedado no GitHub, meu currículo e portifólio em HTML, CSS e JS.
-
-HABILIDADES TÉCNICAS
-● Noções em Linguagens e Frameworks (básico): JavaScript (Node.js), HTML, CSS, VisualG;
-● Banco de Dados: MySQL, PostgreSQL, Python (iniciante em desenvolvimento teórico e prática);
-● Ferramentas e Tecnologias: Git, GitHub, VSCode, Figma, Excel;
-● Noções: Lógica de Programação, CRUD, APIs REST,Segurança básica de APIs (iniciante em desenvolvimento teórico e prática);
-● Sistemas Operacionais: Windows, gerenciamento básico de arquivos e discos (básico);
-● Desenvolvedora em formação com projetos práticos em: Node.js, JavaScript, HTML, CSS e MySQL.(iniciante, projeto próprio);
-● Conhecimento básico em estruturas de dados, algoritmos e banco de dados relacionais. Forte capacidade de entender sistemas rapidamente e propor melhorias.
+Qzverso – Plataforma de Publicação de Histórias
+🔗 [GitHub: https://github.com/Qzverso/Qzverso](https://github.com/Qzverso/Qzverso)
+Inspirado no Wattpad, com categorização de histórias e interface própria.
+Desenvolvimento em HTML, CSS, JavaScript.
+Estrutura inicial para implementação futura de APIs e Banco de Dados.
 
 
-GitHub: 
-github.com/Amanda-AAndrade
-https://github.com/Qzverso
+Portfólio – Amanda Andrade
+🔗 [https://amanda-aandrade.github.io/PortfolioAmanda/](https://amanda-aandrade.github.io/PortfolioAmanda/)
+Portfólio com foco em design e desenvolvimento web.
+
+
+Projeto de Extensão da Faculdade (ADS) HTML/CSS
+🔗 [https://amanda-aandrade.github.io/aprenda-facil-pex/](https://amanda-aandrade.github.io/aprenda-facil-pex/)
+Projeto desenvolvido com dedicação, estudo constante e amor pela educação acessível.
+Criado como parte da formação no curso de Análise e Desenvolvimento de Sistemas – Descomplica.
+
+
+HABILIDADES TÉCNICAS:
+HTML, CSS e JavaScript (nível básico/intermediário);
+Lógica de Programação;
+Pacote Office (ênfase em Excel, conhecimento básico);
+Noções de banco de dados;
+Facilidade com sistemas e plataformas digitais;
+Interesse em SQL e Análise de Dados.
+
+
+Interesses Técnicos: 
+Organização e estruturação de dados
+Banco de Dados e funcionamento de sistemas internos
+Automatização de tarefas e otimização de processos
+SQL e manipulação de informações
 
 Como chegar até mim? 
 Através do WhatsApp; e-mail ou Meet/Reunião por Vídeo.
@@ -38,6 +52,6 @@ e-mail: amanda.andradetec@gmail.com
 
 Segue em anexo meu Curriculum e meu Linkedin:
 
-Currículo em PDF: [AMANDA_ANDRADE_Currículo.pdf](https://github.com/user-attachments/files/24375663/AMANDA_ANDRADE_Curriculo.pdf)
+Currículo em PDF: [Amanda_Andrade_Currículo.pdf](https://github.com/user-attachments/files/25670393/Amanda_Andrade_Curriculo.pdf)
 
-Linkedin: https://www.linkedin.com/in/amanda-andradetec/
+Linkedin: [https://www.linkedin.com/in/amanda-andradetec/](https://linkedin.com/in/amanda-andradetec)
