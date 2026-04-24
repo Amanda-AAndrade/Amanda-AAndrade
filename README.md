@@ -13,19 +13,25 @@ Acredito que minha experiência com qualidade de dados, aliada ao desenvolviment
 PROJETOS:
 
 Qzverso – Plataforma de Publicação de Histórias
+
 🔗 Link em produção
+
 Inspirados no Wattpad e Netflix, com categorização de histórias e interface própria.
 Desenvolvimento em HTML, CSS, JavaScript.
 Estrutura inicial para implementação futura de APIs e Banco de Dados.
 
 
 Portfólio – Amanda Andrade
+
 🔗 [https://amanda-aandrade.github.io/PortfolioAmanda/](https://amanda-aandrade.github.io/PortfolioAmanda/)
+
 Portfólio com foco em desenvolvimento web e back end (dados e organização).
 
 
 Projeto de Extensão da Faculdade (ADS) HTML/CSS
+
 🔗 [https://amanda-aandrade.github.io/aprenda-facil-pex/](https://amanda-aandrade.github.io/aprenda-facil-pex/)
+
 Projeto desenvolvido com dedicação, estudo constante e amor pela educação acessível.
 Criado como parte da formação no curso de Análise e Desenvolvimento de Sistemas – Descomplica.
 
