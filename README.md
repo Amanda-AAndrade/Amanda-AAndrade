@@ -43,7 +43,10 @@ Criado como parte da formação no curso de Análise e Desenvolvimento de Sistem
 
 
 
+
 HABILIDADES TÉCNICAS:
+
+
 HTML, CSS e JavaScript (nível básico/intermediário);
 Lógica de Programação;
 Pacote Office (ênfase em Excel/ Drive Planilhas, conhecimento básico);
@@ -52,13 +55,16 @@ Facilidade com sistemas e plataformas digitais;
 Interesse em Desenvolvimento web, SQL e Análise de Dados.
 
 
+
 Interesses Técnicos: 
 Organização e estruturação de dados
 Banco de Dados e funcionamento de sistemas internos
 Automatização de tarefas e otimização de processos
 SQL e manipulação de informações
 
+
 Como chegar até mim? 
+
 Através do WhatsApp; e-mail ou Meet/Reunião por Vídeo.
 
 Whatsapp: (11) 9 9948-6104 
