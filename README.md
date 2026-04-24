@@ -1,4 +1,5 @@
 👋 Olá, sou @Amanda-AAndrade!
+
 Objetivo: Desenvolvimento Full Stack, atuando tanto em front-end quanto back-end, com foco em construção de aplicações completas e integração com banco de dados (SQL). 
 Interesse em evoluir na área de dados, lógica e desenvolvimento de sistemas, buscando experiência prática e crescimento contínuo.
 Disponibilidade: Integral ou Parcial | Remoto, Híbrido(SP) ou Presencial(SP).
@@ -12,28 +13,34 @@ Acredito que minha experiência com qualidade de dados, aliada ao desenvolviment
 
 PROJETOS:
 
+
 Qzverso – Plataforma de Publicação de Histórias
 
 🔗 Link em produção
+
 
 Inspirados no Wattpad e Netflix, com categorização de histórias e interface própria.
 Desenvolvimento em HTML, CSS, JavaScript.
 Estrutura inicial para implementação futura de APIs e Banco de Dados.
 
 
-Portfólio – Amanda Andrade
+Portfólio – Amanda Andrade .
 
 🔗 [https://amanda-aandrade.github.io/PortfolioAmanda/](https://amanda-aandrade.github.io/PortfolioAmanda/)
 
-Portfólio com foco em desenvolvimento web e back end (dados e organização).
+
+Portfólio com foco em desenvolvimento web e back end (dados e organização)
+
 
 
 Projeto de Extensão da Faculdade (ADS) HTML/CSS
 
 🔗 [https://amanda-aandrade.github.io/aprenda-facil-pex/](https://amanda-aandrade.github.io/aprenda-facil-pex/)
 
+
 Projeto desenvolvido com dedicação, estudo constante e amor pela educação acessível.
 Criado como parte da formação no curso de Análise e Desenvolvimento de Sistemas – Descomplica.
+
 
 
 HABILIDADES TÉCNICAS:
