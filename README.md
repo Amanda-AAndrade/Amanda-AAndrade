@@ -13,7 +13,7 @@ Acredito que minha experiência com qualidade de dados, aliada ao desenvolviment
 PROJETOS:
 
 Qzverso – Plataforma de Publicação de Histórias
-🔗 [GitHub: https://github.com/Qzverso/Qzverso](https://github.com/Qzverso/Qzverso)
+🔗 Link em produção
 Inspirados no Wattpad e Netflix, com categorização de histórias e interface própria.
 Desenvolvimento em HTML, CSS, JavaScript.
 Estrutura inicial para implementação futura de APIs e Banco de Dados.
