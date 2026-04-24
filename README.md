@@ -1,25 +1,27 @@
 👋 Olá, sou @Amanda-AAndrade!
-Interesse: Estágio na área de Dados ou Sistemas, com foco em organização, tratamento e 
-inserção de informações em sistemas internos, buscando desenvolvimento técnico e experiência prática na área de Tecnologia da Informação.
-Disponibilidade: Integral ou Parcial | Remoto, Híbrido ou Presencial(SP).
+Objetivo: Desenvolvimento Full Stack, atuando tanto em front-end quanto back-end, com foco em construção de aplicações completas e integração com banco de dados (SQL). 
+Interesse em evoluir na área de dados, lógica e desenvolvimento de sistemas, buscando experiência prática e crescimento contínuo.
+Disponibilidade: Integral ou Parcial | Remoto, Híbrido(SP) ou Presencial(SP).
 
-Sou Amanda Andrade, estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para junho de 2026, e ingressante no curso de Engenharia de Software em janeiro de 2026. Encontro-me em transição estratégica para a área de Dados e Sistemas Internos, com foco no aprendizado e aplicação de SQL, bancos de dados relacionais e estruturação da informação.
-Minha trajetória profissional foi construída na área da Saúde, onde atuei por quase seis anos com conferência e validação de dados críticos, garantindo conformidade entre prescrições, dosagens e informações sensíveis. Essa experiência desenvolveu em mim forte atenção aos detalhes, pensamento analítico, responsabilidade na gestão de informações e atuação orientada à confiabilidade dos dados, além de vivência em liderança de equipe e padronização de processos.
-Nos últimos anos, direcionei minha carreira para a Tecnologia, aprofundando-me em fundamentos de banco de dados, lógica de programação e organização de informações. Atualmente estudo SQL e análise de dados, aplicando esses conhecimentos em projetos acadêmicos e pessoais, com foco em estruturação de dados, entendimento de regras de negócio e resolução de problemas.
-Busco oportunidade para atuar como Assistente ou Analista Júnior na área de Dados, contribuindo com atividades como validação e organização de informações, apoio na construção de consultas SQL, manutenção de bases de dados e melhoria contínua de processos. Acredito que minha experiência prévia com controle e qualidade de dados, aliada ao desenvolvimento técnico em andamento, pode agregar valor à equipe.
+Sou Amanda Andrade, estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista para junho de 2026) e ingressante no curso de Engenharia de Software em janeiro de 2026.
+Atualmente estou em transição estratégica para a área de Tecnologia, com foco em Desenvolvimento Full Stack e Banco de Dados, aprofundando conhecimentos em SQL, lógica de programação e estruturação de dados.
+Minha trajetória profissional foi construída na área da Saúde, onde atuei por quase seis anos com conferência e validação de dados críticos, garantindo conformidade entre prescrições, dosagens e informações sensíveis. Essa experiência desenvolveu em mim forte atenção aos detalhes, pensamento analítico, responsabilidade na gestão de informações e foco na confiabilidade dos dados, além de vivência em liderança de equipe e padronização de processos.
+Atualmente venho aplicando meus estudos em projetos acadêmicos e pessoais, envolvendo organização de dados, construção de consultas SQL e desenvolvimento web, buscando compreender desde a interface até o processamento e armazenamento das informações.
+Busco oportunidade como Estagiária, Assistente ou Analista Júnior nas áreas de Desenvolvimento ou Dados, onde eu possa contribuir com organização, validação e manipulação de informações, além de evoluir na construção de sistemas e soluções completas.
+Acredito que minha experiência com qualidade de dados, aliada ao desenvolvimento técnico em andamento, pode agregar valor à equipe.
 
 PROJETOS:
 
 Qzverso – Plataforma de Publicação de Histórias
 🔗 [GitHub: https://github.com/Qzverso/Qzverso](https://github.com/Qzverso/Qzverso)
-Inspirado no Wattpad, com categorização de histórias e interface própria.
+Inspirados no Wattpad e Netflix, com categorização de histórias e interface própria.
 Desenvolvimento em HTML, CSS, JavaScript.
 Estrutura inicial para implementação futura de APIs e Banco de Dados.
 
 
 Portfólio – Amanda Andrade
 🔗 [https://amanda-aandrade.github.io/PortfolioAmanda/](https://amanda-aandrade.github.io/PortfolioAmanda/)
-Portfólio com foco em design e desenvolvimento web.
+Portfólio com foco em desenvolvimento web e back end (dados e organização).
 
 
 Projeto de Extensão da Faculdade (ADS) HTML/CSS
@@ -31,10 +33,10 @@ Criado como parte da formação no curso de Análise e Desenvolvimento de Sistem
 HABILIDADES TÉCNICAS:
 HTML, CSS e JavaScript (nível básico/intermediário);
 Lógica de Programação;
-Pacote Office (ênfase em Excel, conhecimento básico);
-Noções de banco de dados;
+Pacote Office (ênfase em Excel/ Drive Planilhas, conhecimento básico);
+Noções básicas em banco de dados;
 Facilidade com sistemas e plataformas digitais;
-Interesse em SQL e Análise de Dados.
+Interesse em Desenvolvimento web, SQL e Análise de Dados.
 
 
 Interesses Técnicos: 
