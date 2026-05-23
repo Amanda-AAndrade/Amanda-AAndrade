@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="LINK_DA_IMAGEM" />
+</p>
+
+
 # 🌌 Amanda Andrade
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
