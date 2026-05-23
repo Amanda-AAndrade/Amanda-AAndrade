@@ -73,7 +73,7 @@ Projeto desenvolvido com dedicação, estudo constante e amor pela educação ac
 Criado como parte da formação no curso de Análise e Desenvolvimento de Sistemas – Descomplica.
 
 🔗 Projeto:
-🔗 https://amanda-aandrade.github.io/aprenda-facil-pex/
+https://amanda-aandrade.github.io/aprenda-facil-pex/
 
 
 ---
