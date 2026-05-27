@@ -44,11 +44,10 @@ de programação, além de explorar ferramentas de IA e Prompt Engineering.
 * Gemini AI
 * Estudos introdutórios em IA aplicada
 
-🛠️ Ferramentas
-
-* Git & GitHub
-* VS Code
-* Figma
+ 🛠️ Ferramentas
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -95,7 +94,9 @@ https://amanda-aandrade.github.io/aprenda-facil-pex/
 ## 🌎 Contato
 
 🔗 LinkedIn: https://linkedin.com/in/amanda-andradetec
+
 📧 Email: amanda.andradetec@gmail.com
+
 💻 GitHub: https://github.com/Amanda-AAndrade
 
 ---
