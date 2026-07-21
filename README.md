@@ -1,30 +1,26 @@
-<p align="center">
-  <img src="LINK_DA_IMAGEM" />
-</p>
-
-
 # 🌌 Amanda Andrade
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-🚀 Full Stack em formação
-🤖 Explorando IA, Dados e Desenvolvimento Web
-📚 Criadora do projeto Qzverso
+💻 Formada Análise e Desenvolvimento de Sistemas (2026)
+💻 Estudante de Engenharia de Software 
+🚀 Áreas de interesse: Arquitetura de Software, Engenharia de Software, Desenvolvimento Full Stack, Inteligência Artificial aplicada a sistemas e desenvolvimento com Python. 
+🤖 Explorando Python, Dados e Desenvolvimento Web
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de ADS e futura Engenheira de Software, atualmente em transição para a área de Tecnologia.
+Sou formada em Analise e Desenvolvimento de Sistemas e futura Engenheira de Software.
 
 Minha trajetória profissional começou na área farmacêutica e hospitalar, atuando com conferência farmacêutica de manipulação, 
 organização de processos e controle de informações críticas, desenvolvendo forte atenção aos detalhes, responsabilidade e pensamento analítico.
 
-Hoje direciono minha carreira para Desenvolvimento Full Stack, Dados e Inteligência Artificial, estudando HTML, CSS, JavaScript, SQL e lógica 
-de programação, além de explorar ferramentas de IA e Prompt Engineering.
+Atualmente, direciono minha carreira para o desenvolvimento de software, aprofundando meus estudos em Python e Engenharia de Software, com interesse em construir soluções tecnológicas e ampliar minha experiência prática na área. 
 
 ---
 
 ## 🚀 Tecnologias e estudos atuais
+
+🟣 Python
 
 🟣 Front-end
 
@@ -34,7 +30,8 @@ de programação, além de explorar ferramentas de IA e Prompt Engineering.
 
 🔵 Back-end / Dados (em aprendizado)
 
-* SQL 
+* SQL
+* PostgreSQL
 * Organização e estruturação de dados
 * Google Sheets / Google Drive
 
@@ -47,7 +44,10 @@ de programação, além de explorar ferramentas de IA e Prompt Engineering.
  🛠️ Ferramentas
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
+- VisuAlg
+- PyCharm
+- Termux
 
 ---
 
@@ -70,8 +70,7 @@ Link em produção
 
 ---
 
-### Projeto de Extensão da Faculdade (ADS) HTML/CSS
-
+### Projeto de Extensão da Faculdade (ADS)  
 
 Projeto desenvolvido com dedicação, estudo constante e amor pela educação acessível. 
 Criado como parte da formação no curso de Análise e Desenvolvimento de Sistemas – Descomplica.
@@ -84,6 +83,7 @@ https://amanda-aandrade.github.io/aprenda-facil-pex/
 
 ## 📚 Atualmente estudando
 
+* Python
 * Desenvolvimento Full Stack
 * SQL e organização de dados
 * Estrutura de sistemas
