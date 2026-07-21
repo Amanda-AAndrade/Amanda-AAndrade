@@ -81,7 +81,7 @@ https://amanda-aandrade.github.io/aprenda-facil-pex/
 
 ---
 
-## 📚 Atualmente estudando e praticando:
+## Atualmente estudando e praticando:
 
 * Python
 * Desenvolvimento Full Stack
