@@ -2,6 +2,7 @@
 
 💻 Formada Análise e Desenvolvimento de Sistemas (julho de 2026)
 💻 Estudante de Engenharia de Software (formação prevista para julho de 2026)
+
 🚀 Áreas de interesse: Arquitetura de Software, Engenharia de Software, Desenvolvimento Full Stack, Inteligência Artificial aplicada a sistemas e desenvolvimento com Python. 
 🤖 Explorando Python, Dados e Desenvolvimento Web.
 
