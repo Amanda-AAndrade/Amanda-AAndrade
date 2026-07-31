@@ -1,9 +1,9 @@
 # 🌌 Amanda Andrade
 
-💻 Formada Análise e Desenvolvimento de Sistemas (2026)
-💻 Estudante de Engenharia de Software 
+💻 Formada Análise e Desenvolvimento de Sistemas (julho de 2026)
+💻 Estudante de Engenharia de Software (formação prevista para julho de 2026)
 🚀 Áreas de interesse: Arquitetura de Software, Engenharia de Software, Desenvolvimento Full Stack, Inteligência Artificial aplicada a sistemas e desenvolvimento com Python. 
-🤖 Explorando Python, Dados e Desenvolvimento Web
+🤖 Explorando Python, Dados e Desenvolvimento Web.
 
 ---
 
@@ -14,7 +14,7 @@ Sou formada em Analise e Desenvolvimento de Sistemas e futura Engenheira de Soft
 Minha trajetória profissional começou na área farmacêutica e hospitalar, atuando com conferência farmacêutica de manipulação, 
 organização de processos e controle de informações críticas, desenvolvendo forte atenção aos detalhes, responsabilidade e pensamento analítico.
 
-Atualmente, direciono minha carreira para o desenvolvimento de software, aprofundando meus estudos em Python e Engenharia de Software, com interesse em construir soluções tecnológicas e ampliar minha experiência prática na área. 
+Atualmente, direciono minha curiosidade para o desenvolvimento de software, aprofundando meus estudos em Python e Engenharia de Software, com interesse em construir soluções tecnológicas e ampliar minha experiência prática na área. 
 
 ---
 
@@ -22,53 +22,62 @@ Atualmente, direciono minha carreira para o desenvolvimento de software, aprofun
 
 🟣 Python
 
-🟣 Front-end
+🟣 Front-end (em prática constante)
 
 * HTML
 * CSS
 * JavaScript
 
-🔵 Back-end / Dados (em aprendizado)
+🔵 Back-end / Dados (aprendizagem futura com grande interesse)
 
 * SQL
 * PostgreSQL
 * Organização e estruturação de dados
 * Google Sheets / Google Drive
 
-🤖 IA & Tecnologia (em aprendizado)
+🤖 IA & Tecnologia (em aprendizado + praticas)
 
-* Prompt IA
-* Gemini AI
-* Estudos introdutórios em IA aplicada
+* Prompt IA;
+* Gemini AI;
+* GPT AI;
+* Estudos introdutórios em IA aplicada.
 
- 🛠️ Ferramentas
-- Git
-- GitHub
-- Visual Studio Code
-- VisuAlg
-- PyCharm
-- Termux
+ 🛠️ Ferramentas:
+- Git;
+- GitHub;
+- Visual Studio Code;
+- VisuAlG (em aprendizagem + práticas);
+- PyCharm (conhecendo em aprendizagem + práticas);
+- Termux (em aprendizagem + práticas);
 
----
+------
 
 ## 🌌 Projetos em destaque
 
-### 📖 Qzverso
+### Qzverso - Projeto de Extensão da Faculdade (Engenharia de Software)  
 
-Plataforma de leitura e publicação de histórias inspirada em Wattpad e Netflix.
+é uma plataforma de leitura digital focada em um universo exclusivo de histórias produzidas por três autoras. 
+Os leitores podem acompanhar lançamentos, comentar capítulos, interagir com outros fãs, receber notificações e viver uma 
+experiência semelhante à de um serviço de streaming, mas voltada para livros e histórias seriadas.
 
 O projeto está sendo desenvolvido com foco em:
 
-* leitura digital
-* interação entre usuários
-* publicação de capítulos
-* organização de conteúdo
-* futura integração com banco de dados e funcionalidades full stack
+* leitura digital;
+* interação entre usuários;
+* publicação de capítulos;
+* organização de conteúdo;
+* futura integração com banco de dados e funcionalidades full stack + IA.
+
+Ferramentas a serem utilizadas:
+* Desenvolvimento Front end: (HTML; CSS; JS);
+* Backend: (Fast API, PostgreSQL, Redis (Cache));
+* IA (Python)
+* Excel / Power BI (organização/ mapa do Site)
 
 🔗 Projeto:
 Link em produção
 
----
+------
 
 ### Projeto de Extensão da Faculdade (ADS)  
 
@@ -79,15 +88,17 @@ Criado como parte da formação no curso de Análise e Desenvolvimento de Sistem
 https://amanda-aandrade.github.io/aprenda-facil-pex/
 
 
----
+------
 
-## Atualmente estudando e praticando:
 
-* Python
-* Desenvolvimento Full Stack
-* SQL e organização de dados
-* Estrutura de sistemas
-* Inteligência Artificial e Prompt Engineering
+## Iniciando os estudando e praticando:
+
+* Python;
+* Desenvolvimento Full Stack;
+* Power BI e Excel;
+* SQL e organização de dados;
+* Estrutura de sistemas;
+* Inteligência Artificial e Prompt Engineering.
 
 ---
 
