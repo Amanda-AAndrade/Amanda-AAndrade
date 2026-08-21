@@ -3,7 +3,7 @@
 💻 Formada Análise e Desenvolvimento de Sistemas (julho de 2026)
 💻 Estudante de Engenharia de Software (formação prevista para julho de 2026)
 
-🚀 Áreas de interesse: Arquitetura de Software,  Engenharia de Prompt IA, Engenharia de Software, Desenvolvimento Full Stack. 
+🚀 Áreas de interesse: Arquitetura de Software,  Engenharia de Prompt - IA, Engenharia de Software, Desenvolvimento Full Stack. 
 
 ---
 
