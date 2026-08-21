@@ -109,7 +109,7 @@ https://amanda-aandrade.github.io/aprenda-facil-pex/
 
 📧 Email: amanda.andradetec@gmail.com
 
-💻 GitHub: https://github.com/Amanda-AAndrade
+💻 Portfólio: https://amanda-aandrade.github.io/amanda-dev-portfolio/
 
 ---
 
