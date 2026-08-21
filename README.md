@@ -3,8 +3,7 @@
 💻 Formada Análise e Desenvolvimento de Sistemas (julho de 2026)
 💻 Estudante de Engenharia de Software (formação prevista para julho de 2026)
 
-🚀 Áreas de interesse: Arquitetura de Software, Engenharia de Software, Desenvolvimento Full Stack, Inteligência Artificial aplicada a sistemas e desenvolvimento com Python. 
-🤖 Explorando Python, Dados e Desenvolvimento Web.
+🚀 Áreas de interesse: Arquitetura de Software,  Engenharia de Prompt IA, Engenharia de Software, Desenvolvimento Full Stack. 
 
 ---
 
@@ -95,11 +94,10 @@ https://amanda-aandrade.github.io/aprenda-facil-pex/
 ## Iniciando os estudando e praticando:
 
 * Python;
-* Desenvolvimento Full Stack;
-* Power BI e Excel;
-* SQL e organização de dados;
-* Estrutura de sistemas;
-* Inteligência Artificial e Prompt Engineering.
+* Arquitetura de Software;
+* Engenharia de Prompt IA;
+* Engenharia de Software;
+* Desenvolvimento Full Stack.
 
 ---
 
