@@ -40,6 +40,7 @@ Atualmente, direciono minha curiosidade para o desenvolvimento de software, apro
 * Prompt IA;
 * Gemini AI;
 * GPT AI;
+* Copilot;
 * Estudos introdutórios em IA aplicada.
 
  🛠️ Ferramentas:
