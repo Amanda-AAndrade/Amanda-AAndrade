@@ -53,7 +53,7 @@ Atualmente, direciono minha curiosidade para o desenvolvimento de software, apro
 
 ------
 
-## <img width="400" height="400" alt="qzverso" src="https://github.com/user-attachments/assets/bb4f16aa-4bd0-4a20-990c-6960dab3cac7" />
+## <img width="80" height="80" alt="qzverso" src="https://github.com/user-attachments/assets/87cd2d12-1dc1-4024-a402-5b4f21ac7bc0" />
  Projetos em destaque
 
 ### Qzverso - Projeto de Extensão da Faculdade (Engenharia de Software)  
