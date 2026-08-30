@@ -53,10 +53,9 @@ Atualmente, direciono minha curiosidade para o desenvolvimento de software, apro
 
 ------
 
-## <img width="80" height="80" alt="qzverso" src="https://github.com/user-attachments/assets/87cd2d12-1dc1-4024-a402-5b4f21ac7bc0" />
- Projetos em destaque
+## Projetos em destaque
 
-### Qzverso - Projeto de Extensão da Faculdade (Engenharia de Software)  
+### <img width="80" height="80" alt="qzverso" src="https://github.com/user-attachments/assets/7290cde8-ad96-4724-8eb2-c5bd3fe79d29" /> Qzverso - Projeto de Extensão da Faculdade (Engenharia de Software)  
 
 O Qzverso é uma plataforma digital de histórias que une uma
 experiência de leitura e interação entre escritores e leitores, também apresentara as publicação das parcerias com muitas novidades.
