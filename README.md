@@ -57,23 +57,40 @@ Atualmente, direciono minha curiosidade para o desenvolvimento de software, apro
 
 ### Qzverso - Projeto de Extensão da Faculdade (Engenharia de Software)  
 
-é uma plataforma de leitura digital focada em um universo exclusivo de histórias produzidas por três autoras. 
-Os leitores podem acompanhar lançamentos, comentar capítulos, interagir com outros fãs, receber notificações e viver uma 
-experiência semelhante à de um serviço de streaming, mas voltada para livros e histórias seriadas.
+O Qzverso é uma plataforma digital de histórias que une uma
+experiência de leitura e interação entre escritores e leitores, também apresentara as publicação das parcerias com muitas novidades.
 
-O projeto está sendo desenvolvido com foco em:
+A plataforma foi desenvolvida para três escritoras, que serão
+responsáveis pela publicação das histórias e capítulos, enquanto
+os leitores poderão acompanhar as obras, interagir, comentar,
+curtir e favoritar.
+ 
+## Principais funcionalidades
 
-* leitura digital;
-* interação entre usuários;
-* publicação de capítulos;
-* organização de conteúdo;
-* futura integração com banco de dados e funcionalidades full stack + IA.
+- Cadastro e autenticação de leitores
+- Área exclusiva para as escritoras
+- Publicação de histórias e capítulos
+- Importação de capítulos em formato DOCX
+- Leitura de histórias
+- Comentários em trechos dos capítulos
+- Curtidas
+- Favoritos
+- Seguimento de escritoras
+- Notificações
+- Progresso de leitura
+- Divulgação de parceiros e produtos
 
-Ferramentas a serem utilizadas:
-* Desenvolvimento Front end: (HTML; CSS; JS);
-* Backend: (Fast API, PostgreSQL, Redis (Cache));
-* IA (Python)
-* Excel / Power BI (organização/ mapa do Site)
+## Tecnologias
+
+Em desenvolvimento.
+
+- HTML
+- CSS
+- JavaScript
+- FastAPI
+- PostgreSQL
+- Power BI
+
 
 🔗 Projeto:
 Link em produção
