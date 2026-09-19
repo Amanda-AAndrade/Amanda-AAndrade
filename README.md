@@ -95,7 +95,7 @@ Em desenvolvimento.
 
 
 🔗 Projeto:
-https://amanda-aandrade.github.io/Qzverso/
+https://github.com/Amanda-AAndrade/Qzverso
 
 ------
 
