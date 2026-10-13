@@ -76,11 +76,11 @@ Atualmente, direciono minha curiosidade para o desenvolvimento de software, apro
 
 ## Principais funcionalidades
 
-- Cadastro e autenticação de leitores
-- Área exclusiva para as escritoras
-- Publicação de histórias e capítulos
-- Importação de capítulos em formato DOCX
-- Divulgação de parceiros e produtos
+- Cadastro e autenticação de leitores;
+- Área exclusiva para as escritoras;
+- Link externo para acompanhar as histórias;
+- Importação de capítulos em formato DOCX;
+- Divulgação de parceiros e produtos;
 
 ## Tecnologias
 
