@@ -1,134 +1,17 @@
-# 🌌 Amanda Andrade
+# Olá, me chamo Amanda Andrade ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-💻 Formada Análise e Desenvolvimento de Sistemas (julho de 2026)
-💻 Estudante de Engenharia de Software (formação prevista para julho de 2026)
+- 🔭 Atualmente estou trabalhando como estagiaria de Engenharia de Software na Secretaria Municipal de Cultura e Economia Criativa; 
+- 🌱 Atualmente estou aprendendo:
+-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+-   Algoritmo, Lógica de Programação e Python;
 
-🚀 Áreas de interesse: Arquitetura de Software,  Engenharia de Prompt - IA, Engenharia de Software, Desenvolvimento Full Stack. 
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou formada em Analise e Desenvolvimento de Sistemas e futura Engenheira de Software.
-
-Minha trajetória profissional começou na área farmacêutica e hospitalar, atuando com conferência farmacêutica de manipulação, 
-organização de processos e controle de informações críticas, desenvolvendo forte atenção aos detalhes, responsabilidade e pensamento analítico.
-
-Atualmente, direciono minha curiosidade para o desenvolvimento de software, aprofundando meus estudos em Python e Engenharia de Software, com interesse em construir soluções tecnológicas e ampliar minha experiência prática na área. 
-
----
-
-## 🚀 Tecnologias e estudos atuais
-
-🟣 Python
-
-🟣 Front-end (em prática constante)
-
-* HTML
-* CSS
-* JavaScript
-
-🔵 Back-end / Dados (aprendizagem futura com grande interesse)
-
-* SQL
-* PostgreSQL
-* Organização e estruturação de dados
-* Google Sheets / Google Drive
-
-🤖 IA & Tecnologia (em aprendizado + praticas)
-
-* Prompt IA;
-* Gemini AI;
-* GPT AI;
-* Copilot;
-* Estudos introdutórios em IA aplicada.
-
- 🛠️ Ferramentas:
-- Git;
-- GitHub;
-- Visual Studio Code;
-- VisuAlG (em aprendizagem + práticas);
-- PyCharm (conhecendo em aprendizagem + práticas);
-- Termux (em aprendizagem + práticas);
-
-------
-
-## Projetos em destaque
-
-### <img width="80" height="80" alt="qzverso" src="https://github.com/user-attachments/assets/7290cde8-ad96-4724-8eb2-c5bd3fe79d29" /> Qzverso - Projeto de Extensão da Faculdade (Engenharia de Software)  
-
-  O Qzverso é um portal dedicado à divulgação de histórias, 
- parcerias e produtos relacionados ao seu universo literário.
-
-  As histórias são apresentadas aos leitores por meio de capas, 
- sinopses e informações sobre as obras, proporcionando uma 
- experiência de descoberta inspirada na apresentação de 
- conteúdos de plataformas de entretenimento.
-
-  O Qzverso não possui como objetivo oferecer a leitura 
- integral das obras. Ao se interessar por uma história, 
- o leitor poderá acessar o link disponibilizado e ser 
- direcionado ao espaço onde a obra está publicada e disponível para leitura.
-
-  Além das histórias, o Qzverso também contará com espaços 
- destinados à divulgação de parceiros, produtos, projetos 
- e outras iniciativas relacionadas ao seu universo.
-
-## Principais funcionalidades
-
-- Cadastro e autenticação de leitores;
-- Área exclusiva para as escritoras;
-- Link externo para acompanhar as histórias;
-- Importação de capítulos em formato DOCX;
-- Divulgação de parceiros e produtos;
-
-## Tecnologias
-
-Em desenvolvimento.
-
-- HTML
-- CSS
-- JavaScript
-- FastAPI
-- PostgreSQL
-- Power BI
-
-
-🔗 Projeto:
-https://github.com/Amanda-AAndrade/Qzverso
-
-------
-
-### Projeto de Extensão da Faculdade (ADS)  
-
-Projeto desenvolvido com dedicação, estudo constante e amor pela educação acessível. 
-Criado como parte da formação no curso de Análise e Desenvolvimento de Sistemas – Descomplica.
-
-🔗 Projeto:
-https://amanda-aandrade.github.io/aprenda-facil-pex/
-
-
-------
-
-
-## Iniciando os estudando e praticando:
-
-* Python;
-* Arquitetura de Software;
-* Engenharia de Prompt IA;
-* Engenharia de Software;
-* Desenvolvimento Full Stack.
-
----
-
-## 🌎 Contato
-
-🔗 LinkedIn: https://linkedin.com/in/amanda-andradetec
-
-📧 Email: amanda.andradetec@gmail.com
-
-💻 Portfólio: https://amanda-aandrade.github.io/amanda-dev-portfolio/
-
----
-
-✨ “Em constante evolução entre código, criatividade e tecnologia.”
+-   
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
