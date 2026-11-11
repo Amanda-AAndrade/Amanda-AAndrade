@@ -7,11 +7,7 @@
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="40" height="40" />| |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>| |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="40" height="40"/>| |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40"/>| |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcopilot/githubcopilot-original-wordmark.svg" width="40" height="40" />|
     
-- 👯 Estou procurando colaborar em ...
-  
-- 🤔 Estou procurando ajuda com ...
-  
-- 💬 Pergunte-me sobre ...
+
   
 - 📫 Como entrar em contato comigo:
 
@@ -24,7 +20,7 @@
 
 
 
-- 😄 Pronomes: ...
+- 😄 Pronomes: 
 
 - 
 - ⚡ Curiosidade: ...
