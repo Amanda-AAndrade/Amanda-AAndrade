@@ -8,9 +8,11 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Engenha
 
 Busco desenvolver minhas habilidades técnicas e construir soluções que integrem programação, dados e tecnologia.
 
+
 ## 💼 Experiência profissional
 
 Atualmente, atuo como **estagiária de Engenharia de Software na Secretaria Municipal de Cultura e Economia Criativa**, onde tenho a oportunidade de desenvolver meus conhecimentos e ampliar minha experiência na área de tecnologia.
+
 
 ## 🌱 Tecnologias e conhecimentos
 
@@ -24,6 +26,7 @@ Tenho conhecimentos em desenvolvimento web e estou aprimorando minhas habilidade
 - JavaScript — desenvolvimento de funcionalidades para aplicações web.
 - Python — conhecimentos básicos, em processo de aprofundamento.
 
+
 ## 🛠️ Ferramentas e ambientes
 
 Ferramentas que utilizo ou estou explorando:
@@ -31,6 +34,7 @@ Ferramentas que utilizo ou estou explorando:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" alt="Visual Studio Code, Git, GitHub e Linux"/>
 </p>
+
 
 ## 🤖 Inteligência Artificial
 
@@ -41,6 +45,7 @@ Ferramentas de IA que utilizo como apoio aos estudos, à produtividade e ao dese
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
+
 
 ## 🎯 Áreas de interesse e objetivos profissionais
 
@@ -54,6 +59,7 @@ Tenho interesse em aprofundar meus conhecimentos e construir minha carreira prof
 
 Meu objetivo é evoluir nessas áreas e desenvolver soluções que conectem aplicações, dados, infraestrutura e Inteligência Artificial.
 
+
 ## 📚 Atualmente estudando e explorando
 
 - Python e lógica de programação;
@@ -63,6 +69,7 @@ Meu objetivo é evoluir nessas áreas e desenvolver soluções que conectem apli
 - Linux e administração de sistemas;
 - Inteligência Artificial e Engenharia de Prompt;
 - Arquitetura de Software.
+  
 
 ## 🚀 Projetos em destaque
 
@@ -75,6 +82,7 @@ Portal digital de descoberta e divulgação literária, criado para conectar his
 **Tecnologias:** HTML, CSS e JavaScript.
 
 🔗 [Repositório](https://github.com/Amanda-AAndrade/Qzverso) | [Projeto online](https://amanda-aandrade.github.io/Qzverso/)
+------------------
 
 ### 📚 [Aprenda Fácil — Projetos de Extensão](https://github.com/Amanda-AAndrade/aprenda-facil-pex)
 
@@ -83,6 +91,7 @@ Repositório que reúne projetos de extensão desenvolvidos durante a graduaçã
 **Tecnologias:** HTML, CSS e JavaScript.
 
 🔗 [Repositório](https://github.com/Amanda-AAndrade/aprenda-facil-pex) | [Projeto online](https://amanda-aandrade.github.io/aprenda-facil-pex/)
+------------------
 
 ### 📖 [Margem](https://github.com/Amanda-AAndrade/Margem)
 
@@ -91,6 +100,7 @@ Projeto de aplicação web que explora conceitos de Progressive Web Apps (PWA), 
 **Tecnologias:** HTML e JavaScript.
 
 🔗 [Repositório](https://github.com/Amanda-AAndrade/Margem) | [Projeto online](https://amanda-aandrade.github.io/Margem/)
+------------------
 
 ### 💻 [Meu Portfólio](https://github.com/Amanda-AAndrade/amanda-dev-portfolio)
 
@@ -99,6 +109,7 @@ Portfólio pessoal desenvolvido do zero para apresentar minha trajetória em tec
 **Tecnologias:** HTML, CSS e JavaScript.
 
 🔗 [Repositório](https://github.com/Amanda-AAndrade/amanda-dev-portfolio)
+------------------
 
 ## 📫 Entre em contato
 
