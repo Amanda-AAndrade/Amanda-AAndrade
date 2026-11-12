@@ -26,11 +26,16 @@ Ferramentas e tecnologias que utilizo ou estou explorando:
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
 </p>
 
-Também tenho interesse em ferramentas de Inteligência Artificial e produtividade para desenvolvimento, como:
+<h3>🤖 Inteligência Artificial</h3>
 
-- GitHub Copilot <img src="https://skillicons.dev/icons?i= GitHub Copilot" /> |
-- Claude <img src="https://skillicons.dev/icons?i= Claude" />
-- ChatGPT <img src="https://skillicons.dev/icons?i= ChatGPT" />
+<p>Ferramentas de IA que utilizo como apoio ao desenvolvimento dos meus projetos:</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+
           
 
 ## 📚 Atualmente estudando
