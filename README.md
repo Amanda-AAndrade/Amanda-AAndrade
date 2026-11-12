@@ -81,7 +81,7 @@ Portal digital de descoberta e divulgação literária, criado para conectar his
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-🔗 [Repositório](https://github.com/Amanda-AAndrade/Qzverso) | [Projeto online](https://amanda-aandrade.github.io/Qzverso/)
+🔗  [Repositório](https://github.com/Amanda-AAndrade/Qzverso) | [Projeto online](https://amanda-aandrade.github.io/Qzverso/)
 ------------------
 
 ### 📚 [Aprenda Fácil — Projetos de Extensão](https://github.com/Amanda-AAndrade/aprenda-facil-pex)
