@@ -1,127 +1,144 @@
-# Olá! Eu sou Amanda Andrade 👋
+<div align="center">
 
-### Estudante de Engenharia de Software | Desenvolvedora em formação
+# Amanda Andrade
 
-Seja bem-vindo(a) ao meu perfil GitHub!
+**Engenharia de Software | Desenvolvimento de Sistemas**
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software. Tenho interesse em desenvolvimento de sistemas, arquitetura de software, Back-end, Inteligência Artificial, bancos de dados e infraestrutura.
+Formada em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software.  
+Interesso-me por construir soluções digitais, compreender como os sistemas funcionam e evoluir continuamente como profissional de tecnologia.
 
-Busco desenvolver minhas habilidades técnicas e construir soluções que integrem programação, dados e tecnologia.
+[![GitHub](https://img.shields.io/badge/GitHub-Amanda--AAndrade-181717?style=for-the-badge&logo=github)](https://github.com/Amanda-AAndrade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanda-andrade)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda.andradetec@gmail.com)
 
+</div>
 
-## 💼 Experiência profissional
+---
 
-Atualmente, atuo como **estagiária de Engenharia de Software na Secretaria Municipal de Cultura e Economia Criativa**, onde tenho a oportunidade de desenvolver meus conhecimentos e ampliar minha experiência na área de tecnologia.
+## Sobre mim
 
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente curso **Engenharia de Software**. Atuo como **estagiária de Engenharia de Software na Secretaria Municipal de Cultura e Economia Criativa**, experiência que contribui para aproximar meus estudos das demandas e práticas do ambiente profissional.
 
-## 🌱 Tecnologias e conhecimentos
+Tenho interesse em desenvolvimento de sistemas, desenvolvimento web, arquitetura de software, dados e infraestrutura. Gosto de transformar ideias em aplicações, documentar o que construo e entender as decisões técnicas por trás de cada solução.
 
-Tenho conhecimentos em desenvolvimento web e estou aprimorando minhas habilidades em programação.
+## Experiência profissional
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python"/>
+Atuo como estagiária de Engenharia de Software na **Secretaria Municipal de Cultura e Economia Criativa**. Nesse contexto, venho ampliando meu contato com tecnologia e ferramentas relacionadas a dados e sistemas, sempre buscando consolidar os conhecimentos adquiridos durante a formação.
+
+## Tecnologias e conhecimentos
+
+### Desenvolvimento web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript"/>
 </p>
 
-- HTML e CSS — estruturação e estilização de interfaces.
-- JavaScript — desenvolvimento de funcionalidades para aplicações web.
-- Python — conhecimentos básicos, em processo de aprofundamento.
+- **HTML5:** estruturação de páginas e organização semântica de conteúdo.
+- **CSS3:** estilização de interfaces, layouts e responsividade.
+- **JavaScript:** lógica e interatividade para aplicações web.
 
+### Programação e dados
 
-## 🛠️ Ferramentas e ambientes
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres" alt="Python e PostgreSQL"/>
+</p>
 
-Ferramentas que utilizo ou estou explorando:
+- **Python:** fundamentos e lógica de programação; em aprofundamento.
+- **SQL e PostgreSQL:** estudos de bancos de dados relacionais e contato com uso de dados em contexto profissional.
 
-<p align="left">
+### Ferramentas e ambientes
+
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" alt="Visual Studio Code, Git, GitHub e Linux"/>
 </p>
 
+Utilizo Visual Studio Code, Git e GitHub no desenvolvimento e na organização dos projetos. Também estou ampliando meus conhecimentos em Linux e ferramentas de infraestrutura.
 
-## 🤖 Inteligência Artificial
+## Em desenvolvimento
 
-Ferramentas de IA que utilizo como apoio aos estudos, à produtividade e ao desenvolvimento dos meus projetos:
+Áreas que fazem parte do meu plano de evolução técnica:
 
-<p align="left">
+- **Back-end e APIs:** construção de serviços, integração entre aplicações e APIs REST.
+- **Python:** aprofundamento da linguagem e orientação a objetos.
+- **Bancos de dados:** modelagem, SQL, PostgreSQL e gerenciamento de dados.
+- **Inteligência Artificial:** aplicações com IA, integração de modelos e fundamentos de Machine Learning.
+- **Infraestrutura:** Linux, redes, servidores, Docker e implantação de aplicações.
+- **Arquitetura de Software:** organização, qualidade, manutenção e evolução de sistemas.
+
+Esses tópicos representam meus objetivos de estudo e desenvolvimento, não uma declaração de domínio profissional de todas essas tecnologias.
+
+## Projetos em destaque
+
+Projetos acadêmicos e pessoais nos quais aplico conhecimentos de desenvolvimento web, organização de software, experiência do usuário e documentação.
+
+### 🌌 [Qzverso — Portal de descoberta literária](https://github.com/Amanda-AAndrade/Qzverso)
+
+Portal criado para aproximar histórias, escritoras e leitores por meio de uma vitrine literária. Permite explorar obras, buscar por título, sinopse ou escritora, filtrar o catálogo e consultar detalhes. Quando o leitor deseja continuar a leitura, o portal direciona para a plataforma externa oficial da obra.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript.
+
+**Status técnico:** front-end implementado com catálogo demonstrativo. Backend, banco de dados e autenticação ainda são etapas futuras.
+
+[Repositório](https://github.com/Amanda-AAndrade/Qzverso) · [Acessar o portal](https://amanda-aandrade.github.io/Qzverso/)
+
+---
+
+### 📖 [Margem — Espaço de escrita](https://github.com/Amanda-AAndrade/Margem)
+
+Aplicação web de escrita individual, pensada para oferecer um ambiente simples e tranquilo para criar e organizar textos. Possui editor com formatação, salvamento automático no navegador, favoritos, filtros de documentos, exportação TXT e backup JSON. Também utiliza Web App Manifest e Service Worker para oferecer recursos de uso offline.
+
+**Tecnologias:** HTML5, CSS3, JavaScript, localStorage e recursos PWA.
+
+**Status técnico:** armazenamento local no navegador; não possui backend nem sincronização entre dispositivos.
+
+[Repositório](https://github.com/Amanda-AAndrade/Margem) · [Acessar a aplicação](https://amanda-aandrade.github.io/Margem/)
+
+---
+
+### 📚 [Aprenda Fácil — Projetos de Extensão](https://github.com/Amanda-AAndrade/aprenda-facil-pex)
+
+Repositório acadêmico que reúne entregas dos Projetos de Extensão I a V realizados durante a graduação em ADS, além do portal educacional Aprenda Fácil. O material registra atividades de concepção, diagnóstico, análise e proposição de soluções, incluindo trabalhos relacionados à Instituição Aurora.
+
+**Tecnologias do portal:** HTML5, CSS3 e JavaScript.
+
+[Repositório](https://github.com/Amanda-AAndrade/aprenda-facil-pex) · [Acessar o portal](https://amanda-aandrade.github.io/aprenda-facil-pex/)
+
+---
+
+### 💻 [Portfólio pessoal](https://github.com/Amanda-AAndrade/amanda-dev-portfolio)
+
+Site desenvolvido para apresentar minha trajetória, experiência, projetos e evolução profissional. A interface possui identidade visual inspirada no espaço, com campo de estrelas, planeta interativo, animações e navegação responsiva.
+
+**Tecnologias:** HTML5, CSS3, JavaScript e Canvas API.
+
+[Repositório](https://github.com/Amanda-AAndrade/amanda-dev-portfolio) · [Acessar o portfólio](https://amanda-aandrade.github.io/amanda-dev-portfolio/)
+
+## Ferramentas de IA
+
+Utilizo ferramentas de inteligência artificial como apoio à pesquisa, aos estudos, à produtividade e ao desenvolvimento dos projetos.
+
+<p>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
 
+Essas ferramentas são recursos de apoio ao meu processo de aprendizagem e desenvolvimento; não representam, por si só, experiência profissional na criação ou treinamento de modelos de IA.
 
-## 🎯 Áreas de interesse e objetivos profissionais
+## Contato
 
-Tenho interesse em aprofundar meus conhecimentos e construir minha carreira profissional nas seguintes áreas:
+Estou aberta a trocar conhecimentos, aprender com outras pessoas e colaborar em projetos de tecnologia.
 
-- **Python e Back-end:** desenvolvimento de aplicações, APIs, automação e integração de sistemas.
-- **Inteligência Artificial:** desenvolvimento de aplicações com IA, Machine Learning e integração de modelos inteligentes.
-- **Bancos de Dados:** modelagem, SQL, gerenciamento e otimização de dados.
-- **Servidores e Infraestrutura:** Linux, administração de servidores, redes, Docker e implantação de aplicações.
-- **Arquitetura de Software:** organização, estruturação e integração de sistemas.
-
-Meu objetivo é evoluir nessas áreas e desenvolver soluções que conectem aplicações, dados, infraestrutura e Inteligência Artificial.
-
-
-## 📚 Atualmente estudando e explorando
-
-- Python e lógica de programação;
-- Programação Orientada a Objetos;
-- Desenvolvimento Back-end e APIs;
-- SQL e bancos de dados relacionais;
-- Linux e administração de sistemas;
-- Inteligência Artificial e Engenharia de Prompt;
-- Arquitetura de Software.
-  
-
-## 🚀 Projetos em destaque
-
-Confira alguns projetos desenvolvidos durante minha trajetória acadêmica e profissional na área de tecnologia.
-
-### 🌌 [Qzverso](https://github.com/Amanda-AAndrade/Qzverso)
-
-Portal digital de descoberta e divulgação literária, criado para conectar histórias, escritoras e leitores. O projeto contempla uma vitrine de obras, apresentação de sinopses e divulgação de iniciativas parceiras.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-🔗  [Repositório](https://github.com/Amanda-AAndrade/Qzverso) | [Projeto online](https://amanda-aandrade.github.io/Qzverso/)
-------------------
-
-### 📚 [Aprenda Fácil — Projetos de Extensão](https://github.com/Amanda-AAndrade/aprenda-facil-pex)
-
-Repositório que reúne projetos de extensão desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas, incluindo o portal Aprenda Fácil e atividades relacionadas à Instituição Aurora.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-🔗 [Repositório](https://github.com/Amanda-AAndrade/aprenda-facil-pex) | [Projeto online](https://amanda-aandrade.github.io/aprenda-facil-pex/)
-------------------
-
-### 📖 [Margem](https://github.com/Amanda-AAndrade/Margem)
-
-Projeto de aplicação web que explora conceitos de Progressive Web Apps (PWA), incluindo estrutura de manifesto e service worker.
-
-**Tecnologias:** HTML e JavaScript.
-
-🔗 [Repositório](https://github.com/Amanda-AAndrade/Margem) | [Projeto online](https://amanda-aandrade.github.io/Margem/)
-------------------
-
-### 💻 [Meu Portfólio](https://github.com/Amanda-AAndrade/amanda-dev-portfolio)
-
-Portfólio pessoal desenvolvido do zero para apresentar minha trajetória em tecnologia, projetos, experiências e evolução profissional. Possui identidade visual inspirada no universo espacial, com animações e elementos interativos.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-🔗 [Repositório](https://github.com/Amanda-AAndrade/amanda-dev-portfolio)
-------------------
-
-## 📫 Entre em contato
-
-<p align="left">
-  <a href="mailto:amanda.andradetec@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/amanda-andrade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+- **E-mail:** [amanda.andradetec@gmail.com](mailto:amanda.andradetec@gmail.com)
+- **LinkedIn:** [linkedin.com/in/amanda-andrade](https://linkedin.com/in/amanda-andrade)
+- **GitHub:** [@Amanda-AAndrade](https://github.com/Amanda-AAndrade)
 
 ---
 
-⭐ Obrigada pela visita ao meu perfil! Estou sempre aberta a aprender, compartilhar conhecimentos e desenvolver novas soluções.
+<div align="center">
+
+**BUILD · LEARN · EXPLORE**
+
+*Em constante aprendizado, transformando conhecimento em projetos.*
+
+</div>
