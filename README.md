@@ -118,9 +118,9 @@ Site desenvolvido para apresentar minha trajetória, experiência, projetos e ev
 Utilizo ferramentas de inteligência artificial como apoio à pesquisa, aos estudos, à produtividade e ao desenvolvimento dos projetos.
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  
 </p>
 
 Essas ferramentas são recursos de apoio ao meu processo de aprendizagem e desenvolvimento; não representam, por si só, experiência profissional na criação ou treinamento de modelos de IA.
