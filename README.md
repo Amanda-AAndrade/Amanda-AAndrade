@@ -79,7 +79,7 @@ Portal criado para aproximar histórias, escritoras e leitores por meio de uma v
 
 **Status técnico:** front-end implementado com catálogo demonstrativo. Backend, banco de dados e autenticação ainda são etapas futuras.
 
-[Repositório](https://github.com/Amanda-AAndrade/Qzverso) · [Acessar o portal](https://amanda-aandrade.github.io/Qzverso/)
+[Repositório](https://github.com/Amanda-AAndrade/Qzverso) · [Acessar o portal](www.qzverso.com.br/)
 
 ---
 
